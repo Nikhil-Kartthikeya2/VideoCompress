@@ -13,36 +13,36 @@
   "website": "https://t.me/Discovery_Updates",
   "repository": "https://github.com/AbirHasan2005/VideoCompress",
   "env": {
-    "ENV": {
+    "ENV": {ANYTHING}
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
       "value": "ANYTHING"
     },
-    "SESSION_NAME": {
+    "SESSION_NAME": {VideoCompressorforDIT}
       "description": "Keep this default",
       "value": "AHCompressBot",
       "required": true
-    },
+    },mongodb+srv://botst30:<password>@cluster0.lbeqvt3.mongodb.net/?retryWrites=true&w=majority}
     "DATABASE_URL": {
       "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/linux_repo",
       "value": "",
       "required": true
     },
-    "TG_BOT_TOKEN": {
+    "TG_BOT_TOKEN": {5456745542:AAGLLG-OVfoUkdWSRdkLH1WLS_Z0HVtJPhg}
       "description": "Your bot token, as a string. Get this from @BotFather",
       "value": "",
       "required": true
     },
-    "APP_ID": {
+    "APP_ID": {17038143}
       "description": "Get this value from https://my.telegram.org",
       "value": "",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {c1705f4cf711329ea025772dfd7057e0}
       "description": "Get this value from https://my.telegram.org",
       "value": "",
       "required": true
     },
-    "AUTH_USERS": {
+    "AUTH_USERS": {5338416066}
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
       "value": "715779594",
       "required": false
@@ -55,17 +55,17 @@
       "description": "Should be a single character.",
       "required": false
     },
-    "BOT_USERNAME": {
+    "BOT_USERNAME": {video_com_5_bot}
       "description": "Your Bot Username. Without `@` before Username!",
       "value": "",
       "required": true
     },
-    "LOG_CHANNEL": {
+    "LOG_CHANNEL": {-1001537377725}
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
       "value": "",
       "required": true
     },
-    "UPDATES_CHANNEL": {
+    "UPDATES_CHANNEL": {@DisneyIndiaTelugu2}
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
       "value": "",
       "required": false
